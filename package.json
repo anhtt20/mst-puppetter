@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer_startkit",
+  "version": "1",
+  "description": "puppeteer my start kit",
+  "main": "index.js",
+  "author": "hoang.vx",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^1.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
